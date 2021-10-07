@@ -1,0 +1,2784 @@
+fileFormatVersion: 2
+guid: aabf8bc51d5434240ba83a2e54d30a6d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4898770598671448810
+    second: llave_0
+  - first:
+      213: 999833453999612152
+    second: llave_1
+  - first:
+      213: -1896673449981167197
+    second: llave_2
+  - first:
+      213: 5278588540890198484
+    second: llave_3
+  - first:
+      213: -6101066079193609700
+    second: llave_4
+  - first:
+      213: 9216549030571968858
+    second: llave_5
+  - first:
+      213: 45864818561259145
+    second: llave_6
+  - first:
+      213: -2500666216476879308
+    second: llave_7
+  - first:
+      213: 5402934223634737849
+    second: llave_8
+  - first:
+      213: 8629543988049327719
+    second: llave_9
+  - first:
+      213: 3718690290799076277
+    second: llave_10
+  - first:
+      213: 2024312952591408436
+    second: llave_11
+  - first:
+      213: 2209107005048098577
+    second: llave_12
+  - first:
+      213: 2479117170576130715
+    second: llave_13
+  - first:
+      213: 8677166511284657539
+    second: llave_14
+  - first:
+      213: -7839892758930487774
+    second: llave_15
+  - first:
+      213: 3090122268502889545
+    second: llave_16
+  - first:
+      213: -5403219474037767499
+    second: llave_17
+  - first:
+      213: -6272879339209092332
+    second: llave_18
+  - first:
+      213: -5338464862006116410
+    second: llave_19
+  - first:
+      213: 9096716073886043096
+    second: llave_20
+  - first:
+      213: 5207042725466432965
+    second: llave_21
+  - first:
+      213: 8955961765378355257
+    second: llave_22
+  - first:
+      213: 7960734616471133991
+    second: llave_23
+  - first:
+      213: -2072868250261099887
+    second: llave_24
+  - first:
+      213: -4134600919100907876
+    second: llave_25
+  - first:
+      213: -3892116018681408511
+    second: llave_26
+  - first:
+      213: 6339219806125725043
+    second: llave_27
+  - first:
+      213: 8158509228625186578
+    second: llave_28
+  - first:
+      213: 6000181897522602810
+    second: llave_29
+  - first:
+      213: 5925061550917275248
+    second: llave_30
+  - first:
+      213: -261706784832210058
+    second: llave_31
+  - first:
+      213: -7843034635794725483
+    second: llave_32
+  - first:
+      213: -3154063302688129237
+    second: llave_33
+  - first:
+      213: 3589637317165376664
+    second: llave_34
+  - first:
+      213: 2250520941934537249
+    second: llave_35
+  - first:
+      213: 3470605134277189109
+    second: llave_36
+  - first:
+      213: -2988366005317573721
+    second: llave_37
+  - first:
+      213: -5145714136476802964
+    second: llave_38
+  - first:
+      213: 6048535165461417529
+    second: llave_39
+  - first:
+      213: 5386904951246250811
+    second: llave_40
+  - first:
+      213: 7803781399202955500
+    second: llave_41
+  - first:
+      213: 112119991073325632
+    second: llave_42
+  - first:
+      213: -2007136813142444369
+    second: llave_43
+  - first:
+      213: 3477068845519796064
+    second: llave_44
+  - first:
+      213: -2470042036822711758
+    second: llave_45
+  - first:
+      213: 512067894487641496
+    second: llave_46
+  - first:
+      213: -3720336726222317534
+    second: llave_47
+  - first:
+      213: 5762564741130188426
+    second: llave_48
+  - first:
+      213: 3359120145350347825
+    second: llave_49
+  - first:
+      213: 4133384013255023071
+    second: llave_50
+  - first:
+      213: -4372792470931647221
+    second: llave_51
+  - first:
+      213: -5708169776282781911
+    second: llave_52
+  - first:
+      213: -4769070525776979371
+    second: llave_53
+  - first:
+      213: 376156299625613137
+    second: llave_54
+  - first:
+      213: 6682122946929505736
+    second: llave_55
+  - first:
+      213: -1990777180249100383
+    second: llave_56
+  - first:
+      213: 2702977407684184862
+    second: llave_57
+  - first:
+      213: 2832904872873914024
+    second: llave_58
+  - first:
+      213: -569939810731586926
+    second: llave_59
+  - first:
+      213: 3303528500628758704
+    second: llave_60
+  - first:
+      213: 8618413585533339212
+    second: llave_61
+  - first:
+      213: -6272021673284158150
+    second: llave_62
+  - first:
+      213: 7271081307318292844
+    second: llave_63
+  - first:
+      213: -4145794826480020599
+    second: llave_64
+  - first:
+      213: -2309709900598592886
+    second: llave_65
+  - first:
+      213: 3713442834280409289
+    second: llave_66
+  - first:
+      213: 421601268110605550
+    second: llave_67
+  - first:
+      213: -1089563876082588903
+    second: llave_68
+  - first:
+      213: 45215685057609504
+    second: llave_69
+  - first:
+      213: 1190662164242012059
+    second: llave_70
+  - first:
+      213: 6212205393048261415
+    second: llave_71
+  - first:
+      213: 8893602819652763506
+    second: llave_72
+  - first:
+      213: -3145444437760875809
+    second: llave_73
+  - first:
+      213: -8027887848669790480
+    second: llave_74
+  - first:
+      213: -6741950777705548375
+    second: llave_75
+  - first:
+      213: -141152491310830057
+    second: llave_76
+  - first:
+      213: -1205312818332562947
+    second: llave_77
+  - first:
+      213: -3616092902408221511
+    second: llave_78
+  - first:
+      213: -2179847716968497042
+    second: llave_79
+  - first:
+      213: -2294185235289947083
+    second: llave_80
+  - first:
+      213: 7855146808056826972
+    second: llave_81
+  - first:
+      213: -4229901496190251820
+    second: llave_82
+  - first:
+      213: 7878631465371609128
+    second: llave_83
+  - first:
+      213: 5711619918582605050
+    second: llave_84
+  - first:
+      213: 3262703043411267155
+    second: llave_85
+  - first:
+      213: 1783840538985252178
+    second: llave_86
+  - first:
+      213: 8847712218849692712
+    second: llave_87
+  - first:
+      213: 5502246205526252228
+    second: llave_88
+  - first:
+      213: -8347244852552157299
+    second: llave_89
+  - first:
+      213: 5365036647346102006
+    second: llave_90
+  - first:
+      213: -8880250042868968558
+    second: llave_91
+  - first:
+      213: -4277302361185309453
+    second: llave_92
+  - first:
+      213: -4650534839407040765
+    second: llave_93
+  - first:
+      213: 6873761593493511491
+    second: llave_94
+  - first:
+      213: -4279749054044115399
+    second: llave_95
+  - first:
+      213: -2147132812808505535
+    second: llave_96
+  - first:
+      213: 2309667485923521677
+    second: llave_97
+  - first:
+      213: -1962743909413432571
+    second: llave_98
+  - first:
+      213: -7451658583238045660
+    second: llave_99
+  - first:
+      213: -1996713067325772313
+    second: llave_100
+  - first:
+      213: -7774354681044611028
+    second: llave_101
+  - first:
+      213: 1228631518893365063
+    second: llave_102
+  - first:
+      213: -4610702759362017525
+    second: llave_103
+  - first:
+      213: 8544366633963391
+    second: llave_104
+  - first:
+      213: 1365876604385058037
+    second: llave_105
+  - first:
+      213: -328297770510580118
+    second: llave_106
+  - first:
+      213: 3963013420858310721
+    second: llave_107
+  - first:
+      213: -6929324788545309950
+    second: llave_108
+  - first:
+      213: 7452746900810234414
+    second: llave_109
+  - first:
+      213: 7217299669931008141
+    second: llave_110
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: llave_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 558
+        width: 144
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea70f997edebf340800000000000000
+      internalID: 4898770598671448810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_1
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 787
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0e234aa3f10ed00800000000000000
+      internalID: 999833453999612152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 558
+        width: 143
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a935f6db89ada5e0800000000000000
+      internalID: -1896673449981167197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 558
+        width: 118
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1353f8f40514940800000000000000
+      internalID: 5278588540890198484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 558
+        width: 120
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1aca7ec9b8a45ba0800000000000000
+      internalID: -6101066079193609700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_5
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 558
+        width: 132
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59863e0382c7ef70800000000000000
+      internalID: 9216549030571968858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_6
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 556
+        width: 164
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986180a3fc1f2a000800000000000000
+      internalID: 45864818561259145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_7
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 559
+        width: 119
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43653114359db4dd0800000000000000
+      internalID: -2500666216476879308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_8
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 558
+        width: 120
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9baac88ec041bfa40800000000000000
+      internalID: 5402934223634737849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_9
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 558
+        width: 152
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766b94d298c42c770800000000000000
+      internalID: 8629543988049327719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_10
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 661
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3e5c4fd117b9330800000000000000
+      internalID: 3718690290799076277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_11
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 679
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43dde65b7edc71c10800000000000000
+      internalID: 2024312952591408436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_12
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 686
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f08b2ed1358ae10800000000000000
+      internalID: 2209107005048098577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_13
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 674
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9203c48ee7976220800000000000000
+      internalID: 2479117170576130715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_14
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 688
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d990ae7fc7b6870800000000000000
+      internalID: 8677166511284657539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_15
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 624
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2268ac2c21b133390800000000000000
+      internalID: -7839892758930487774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 630
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94493aeb4d152ea20800000000000000
+      internalID: 3090122268502889545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_17
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 614
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2818e0488e305b0800000000000000
+      internalID: -5403219474037767499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_18
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 617
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4131e83e97142f8a0800000000000000
+      internalID: -6272879339209092332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_19
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 620
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf783e0e76f9e5b0800000000000000
+      internalID: -5338464862006116410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_20
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 604
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db409e92170e3e70800000000000000
+      internalID: 9096716073886043096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_21
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 604
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c565bd45c1234840800000000000000
+      internalID: 5207042725466432965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_22
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 587
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9307b5f56c7f94c70800000000000000
+      internalID: 8955961765378355257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_23
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 605
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fdae5b4f53a7e60800000000000000
+      internalID: 7960734616471133991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_24
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 598
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a60051f41bb33e0800000000000000
+      internalID: -2072868250261099887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 590
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e9cf0ce52fe96c0800000000000000
+      internalID: -4134600919100907876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_26
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 587
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10413e13a1d6cf9c0800000000000000
+      internalID: -3892116018681408511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_27
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 597
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3759e39b3de69f750800000000000000
+      internalID: 6339219806125725043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_28
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 585
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f43f4fae8d83170800000000000000
+      internalID: 8158509228625186578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 569
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33609d35ade44350800000000000000
+      internalID: 6000181897522602810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 578
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ecfb6961c0a3250800000000000000
+      internalID: 5925061550917275248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_31
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 585
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b34c6d01b3e5cf0800000000000000
+      internalID: -261706784832210058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_32
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 581
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595ce5c8d81f72390800000000000000
+      internalID: -7843034635794725483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_33
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 572
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fbd2c13248a34d0800000000000000
+      internalID: -3154063302688129237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_34
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 573
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894e02a0f14f0d130800000000000000
+      internalID: 3589637317165376664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_35
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 569
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ae5977fd47b3f10800000000000000
+      internalID: 2250520941934537249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_36
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 579
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd1d384bf01a2030800000000000000
+      internalID: 3470605134277189109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_37
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 566
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3613283f03786d0800000000000000
+      internalID: -2988366005317573721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_38
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 544
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60289b8140c698b0800000000000000
+      internalID: -5145714136476802964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_39
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 541
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e49ccbfa6b0f350800000000000000
+      internalID: 6048535165461417529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_40
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 557
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3363d9138122ca40800000000000000
+      internalID: 5386904951246250811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_41
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 555
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce00b4c16d99c4c60800000000000000
+      internalID: 7803781399202955500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_42
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 546
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0424520b9845e8100800000000000000
+      internalID: 112119991073325632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_43
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 532
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6f805e3b73524e0800000000000000
+      internalID: -2007136813142444369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_44
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 541
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067f8c451b7014030800000000000000
+      internalID: 3477068845519796064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_45
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 548
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23266e6bad5a8bdd0800000000000000
+      internalID: -2470042036822711758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_46
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 537
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d61d7790b3b1700800000000000000
+      internalID: 512067894487641496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_47
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 534
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228ddac6575be5cc0800000000000000
+      internalID: -3720336726222317534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 543
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a867146c91eb8ff40800000000000000
+      internalID: 5762564741130188426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_49
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 527
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c477d89fdfd9e20800000000000000
+      internalID: 3359120145350347825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_50
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 527
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd918564cdabc5930800000000000000
+      internalID: 4133384013255023071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_51
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 529
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05dd9d6a68b053c0800000000000000
+      internalID: -4372792470931647221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_52
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 530
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9273b07e4d188c0b0800000000000000
+      internalID: -5708169776282781911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_53
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 491
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a174adf9bd0ddb0800000000000000
+      internalID: -4769070525776979371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_54
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 516
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157c53b5920683500800000000000000
+      internalID: 376156299625613137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_55
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 513
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c53835ba6babbc50800000000000000
+      internalID: 6682122946929505736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_56
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 514
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af6c40c3b65f54e0800000000000000
+      internalID: -1990777180249100383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_57
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 518
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b0cec91a7e28520800000000000000
+      internalID: 2702977407684184862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_58
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 470
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae6f16f8ff705720800000000000000
+      internalID: 2832904872873914024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_59
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 471
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a8df503ca2718f0800000000000000
+      internalID: -569939810731586926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_60
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 484
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b02b512bad78dd20800000000000000
+      internalID: 3303528500628758704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_61
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 478
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c468d156e71ca9770800000000000000
+      internalID: 8618413585533339212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_62
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 496
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3db85cc48d45f8a0800000000000000
+      internalID: -6272021673284158150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_63
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 496
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6190b7dce118e460800000000000000
+      internalID: 7271081307318292844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_64
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 488
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9839108129d2776c0800000000000000
+      internalID: -4145794826480020599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_65
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 496
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a3e90351342ffd0800000000000000
+      internalID: -2309709900598592886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_66
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 470
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8e007459cc88330800000000000000
+      internalID: 3713442834280409289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_67
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 484
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec369e9e14d9d500800000000000000
+      internalID: 421601268110605550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_68
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 490
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913effd6d6711e0f0800000000000000
+      internalID: -1089563876082588903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_69
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 476
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f722e0d63a0a000800000000000000
+      internalID: 45215685057609504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_70
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 461
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9794231ee4168010800000000000000
+      internalID: 1190662164242012059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_71
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 474
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723586c24ef263650800000000000000
+      internalID: 6212205393048261415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_72
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 467
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fb0d6e4ac6c6b70800000000000000
+      internalID: 8893602819652763506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_73
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 478
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2e88af2f22954d0800000000000000
+      internalID: -3145444437760875809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_74
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 461
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0febc530986379090800000000000000
+      internalID: -8027887848669790480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_75
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 471
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a531b1fc77cf62a0800000000000000
+      internalID: -6741950777705548375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_76
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 182
+        width: 147
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ea1489e868a0ef0800000000000000
+      internalID: -141152491310830057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_77
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 179
+        width: 149
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df90014b06ed54fe0800000000000000
+      internalID: -1205312818332562947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_78
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 187
+        width: 131
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc85250aae01ddc0800000000000000
+      internalID: -3616092902408221511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_79
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 461
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6085adfc00afb1e0800000000000000
+      internalID: -2179847716968497042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_80
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 464
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534c8910faa6920e0800000000000000
+      internalID: -2294185235289947083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_81
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 189
+        width: 121
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c45c05766130d60800000000000000
+      internalID: 7855146808056826972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_82
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 174
+        width: 120
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dccfac000f5c45c0800000000000000
+      internalID: -4229901496190251820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_83
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 184
+        width: 145
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828a0b13395865d60800000000000000
+      internalID: 7878631465371609128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_84
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 445
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af46923fd00c34f40800000000000000
+      internalID: 5711619918582605050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_85
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 172
+        width: 126
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e4d16a123774d20800000000000000
+      internalID: 3262703043411267155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_86
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 190
+        width: 135
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255482ed48971c810800000000000000
+      internalID: 1783840538985252178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_87
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 184
+        width: 145
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c4b67c26369ca70800000000000000
+      internalID: 8847712218849692712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_88
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 409
+        width: 12
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca122395c7eb5c40800000000000000
+      internalID: 5502246205526252228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_89
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 423
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87bb6e3801a82c80800000000000000
+      internalID: -8347244852552157299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_90
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 411
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe5404d760747a40800000000000000
+      internalID: 5365036647346102006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_91
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 397
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293d526b2a303c480800000000000000
+      internalID: -8880250042868968558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_92
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 340
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc2c942a28f3a4c0800000000000000
+      internalID: -4277302361185309453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 290
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307a091043bf57fb0800000000000000
+      internalID: -4650534839407040765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_94
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 288
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d57e220c1846f50800000000000000
+      internalID: 6873761593493511491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_95
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 290
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ee2e119e64b94c0800000000000000
+      internalID: -4279749054044115399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147b6fe251ad332e0800000000000000
+      internalID: -2147132812808505535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_97
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 266
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84bdbf57569d0020800000000000000
+      internalID: 2309667485923521677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_98
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 254
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503d95e30dee2c4e0800000000000000
+      internalID: -1962743909413432571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_99
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 246
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4201b96cff3669890800000000000000
+      internalID: -7451658583238045660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_100
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 241
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edaaa75b004a44e0800000000000000
+      internalID: -1996713067325772313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_101
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 151
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20d07e9b91fb1490800000000000000
+      internalID: -7774354681044611028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_102
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 174
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747dc7b5bd9fc0110800000000000000
+      internalID: 1228631518893365063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_103
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 158
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b074057d44e7300c0800000000000000
+      internalID: -4610702759362017525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_104
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 171
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f4c026e0b5e1000800000000000000
+      internalID: 8544366633963391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_105
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 178
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc5363f88194f210800000000000000
+      internalID: 1365876604385058037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_106
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 170
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a660a28cae6a17bf0800000000000000
+      internalID: -328297770510580118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_107
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 179
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1408d5695b37ff630800000000000000
+      internalID: 3963013420858310721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1499
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203b27561d716df90800000000000000
+      internalID: -6929324788545309950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_109
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 112
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2affa7e1d97d6760800000000000000
+      internalID: 7452746900810234414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: llave_110
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 132
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8028c79fcff82460800000000000000
+      internalID: 7217299669931008141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
